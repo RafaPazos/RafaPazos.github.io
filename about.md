@@ -4,6 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-# Contact
+## Contact
 
 Don't
