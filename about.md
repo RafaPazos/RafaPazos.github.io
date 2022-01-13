@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "About"
 permalink: /about/
 ---
 
-## Contact
+# Contact
 
 Don't
